@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umaraliyev Ibroxim</h1>
 <h3 align="center">A passionate Flutter developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibroxim-ku&label=Profile%20views&color=0e75b6&style=flat" alt="ibroxim-ku" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibroximfd&label=Profile%20views&color=0e75b6&style=flat" alt="ibroximfd" /> </p>
 
 - 🔭 I’m currently working on **Start up**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **umaraliyevibrohim04@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Ibroxim-ku/Resume/blob/main/ibroxim_umaraliyev_resume.pdf)
+- 📄 Know about my experiences [https://github.com/Ibroximfd/Resume/blob/main/ibroxim_umaraliyev_resume.pdf)
 
 - ⚡ Fun fact **I used to be able to solve a Rubik's cube in under two minutes**
 
