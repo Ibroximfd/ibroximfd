@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Flutter, Dart, Cross-Platform Development, Mobile App Architecture**
 
-- 📫 How to reach me **umaraliyevibrohim04@gmail.com**
+- 📫 How to reach me **asdibroxim@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Ibroximfd/Resume/blob/main/ibroxim_umaraliyev_resume.pdf)
+- 📄 Know about my experiences https://github.com/Ibroximfd/Resume/blob/main/ibroxim_umaraliyev_resume.pdf
 
 - ⚡ Fun fact **I used to be able to solve a Rubik's cube in under two minutes**
 
